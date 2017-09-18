@@ -1,0 +1,4 @@
+﻿  A1.cpp
+c:\users\fadi\documents\visual studio 2017\projects\cpplecturesassignments\l3a1\a1.cpp(31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  L3A1.vcxproj -> C:\Users\Fadi\Documents\Visual Studio 2017\Projects\CppLecturesAssignments\x64\Debug\L3A1.exe
+  L3A1.vcxproj -> C:\Users\Fadi\Documents\Visual Studio 2017\Projects\CppLecturesAssignments\x64\Debug\L3A1.pdb (Partial PDB)
