@@ -1,3 +1,26 @@
 ﻿  A2.cpp
-  L3A2.vcxproj -> C:\Users\Fadi\Documents\Visual Studio 2017\Projects\CppLecturesAssignments\x64\Debug\L3A2.exe
-  L3A2.vcxproj -> C:\Users\Fadi\Documents\Visual Studio 2017\Projects\CppLecturesAssignments\x64\Debug\L3A2.pdb (Partial PDB)
+c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(24): error C2131: expression did not evaluate to a constant
+  c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(24): note: failure was caused by a read of a variable outside its lifetime
+  c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(24): note: see usage of 'n'
+c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(28): error C2228: left of '.x' must have class/struct/union
+  c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(28): note: type is 'field [n][m]'
+c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(29): error C2228: left of '.y' must have class/struct/union
+  c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(29): note: type is 'field [n][m]'
+c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(30): error C2228: left of '.isWall' must have class/struct/union
+  c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(30): note: type is 'field [n][m]'
+c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(31): error C2228: left of '.isWall' must have class/struct/union
+  c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(31): note: type is 'field [n][m]'
+c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(32): error C2228: left of '.type' must have class/struct/union
+  c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(32): note: type is 'field [n][m]'
+c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(34): error C2228: left of '.type' must have class/struct/union
+  c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(34): note: type is 'field [n][m]'
+c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(50): error C2228: left of '.isWall' must have class/struct/union
+  c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(50): note: type is 'field [n][m]'
+c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(66): error C2228: left of '.isWall' must have class/struct/union
+  c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(66): note: type is 'field [n][m]'
+c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(71): error C2228: left of '.isWall' must have class/struct/union
+  c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(71): note: type is 'field [n][m]'
+c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(76): error C2228: left of '.isWall' must have class/struct/union
+  c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(76): note: type is 'field [n][m]'
+c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(81): error C2228: left of '.isWall' must have class/struct/union
+  c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l3a2\a2.cpp(81): note: type is 'field [n][m]'
