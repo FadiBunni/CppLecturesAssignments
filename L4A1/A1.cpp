@@ -50,7 +50,7 @@ int main() {
 	return 0;
 }
 
-void erase(std::vector<int>& v, int num) {
+void erase(vector<int>& v, int num) {
 	vector<int>::iterator it = remove(v.begin(), v.end(), num);
 	v.erase(it, v.end());
 }
