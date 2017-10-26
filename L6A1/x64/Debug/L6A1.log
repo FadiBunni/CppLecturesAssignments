@@ -1,3 +1,6 @@
-﻿  A1.cpp
-  L6A1.vcxproj -> C:\Users\Fadi\Documents\Visual Studio 2017\Projects\CppLecturesAssignments\x64\Debug\L6A1.exe
-  L6A1.vcxproj -> C:\Users\Fadi\Documents\Visual Studio 2017\Projects\CppLecturesAssignments\x64\Debug\L6A1.pdb (Partial PDB)
+﻿  Fraction.cpp
+  A1.cpp
+  Generating Code...
+  LINK : C:\Users\fadib\Documents\Visual Studio 2017\Projects\CppLecturesAssignments\x64\Debug\L6A1.exe not found or not built by the last incremental link; performing full link
+  L6A1.vcxproj -> C:\Users\fadib\Documents\Visual Studio 2017\Projects\CppLecturesAssignments\x64\Debug\L6A1.exe
+  L6A1.vcxproj -> C:\Users\fadib\Documents\Visual Studio 2017\Projects\CppLecturesAssignments\x64\Debug\L6A1.pdb (Partial PDB)
