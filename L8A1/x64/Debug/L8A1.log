@@ -1,0 +1,6 @@
+﻿  shapes.cpp
+c:\users\fadi\documents\visual studio 2017\projects\cpplecturesassignments\l8a1\shapes.cpp(92): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  A1.cpp
+  Generating Code...
+  L8A1.vcxproj -> C:\Users\Fadi\Documents\Visual Studio 2017\Projects\CppLecturesAssignments\x64\Debug\L8A1.exe
+  L8A1.vcxproj -> C:\Users\Fadi\Documents\Visual Studio 2017\Projects\CppLecturesAssignments\x64\Debug\L8A1.pdb (Partial PDB)
