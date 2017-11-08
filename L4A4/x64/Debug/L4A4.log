@@ -1,0 +1,4 @@
+﻿  A4.cpp
+c:\users\fadib\documents\visual studio 2017\projects\cpplecturesassignments\l4a4\a4.cpp(29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  L4A4.vcxproj -> C:\Users\fadib\Documents\Visual Studio 2017\Projects\CppLecturesAssignments\x64\Debug\L9A4.exe
+  L4A4.vcxproj -> C:\Users\fadib\Documents\Visual Studio 2017\Projects\CppLecturesAssignments\x64\Debug\L9A4.pdb (Partial PDB)
